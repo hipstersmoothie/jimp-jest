@@ -1,0 +1,16 @@
+{
+  "name": "jimp-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Andrew Lisowski",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jimp": "^1.2.0"
+  }
+}
